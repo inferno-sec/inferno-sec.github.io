@@ -1,7 +1,7 @@
 ---
 title: Escape_two
 date: 2026-09-22 13:06:36
-tags:
+tags: HTB Active directory
 ---
 
 We have started by scanning the open services 
